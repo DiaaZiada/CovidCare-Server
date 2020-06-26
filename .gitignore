@@ -1,0 +1,7 @@
+venv/
+.vscode/
+.idea/
+neo4j-community-3.5.19/
+neo4j-community-3.5.19-unix.tar.gz
+
+
