@@ -1,3 +1,4 @@
+
 # CovidCare
 CovidCare is an attempt to help contain the disease (Covid-19) by finding out the Covid-19 status of people you have come to contact within your day and the location of these contacts.
 
@@ -18,7 +19,8 @@ This repo is about the server, you can find the mobile app repo at [here](https:
 * Neo4j DataBase (Graphical DataBase)
 
 ![neo4j](https://github.com/DiaaZiada/CovidCare-Server/blob/master/images/0_d2b2ohG7o_hnbYVx.png)
-
+## Run
+`$python run.py`
 ## How the app works
 
 ### Location and time
