@@ -5,7 +5,7 @@ CovidCare is an attempt to help contain the disease (Covid-19) by finding out th
 ![Logo](https://github.com/DiaaZiada/CovidCare-AndroidApp/blob/master/images/Screenshot%20from%202020-12-08%2015-04-29.png)
 
 CovidCare system consists of
-* REST API Server9
+* REST API Server
 * Mobile Application
 
 # REST API Server 
